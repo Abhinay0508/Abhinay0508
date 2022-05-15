@@ -1,6 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1c2iwIQhGs8ePtaGKLEuq5lFJYuD68aXv/view?usp=sharing)]
-
-<img src='https://drive.google.com/file/d/1c2iwIQhGs8ePtaGKLEuq5lFJYuD68aXv/view?usp=sharing' alt="banner"></img>
+![MasterHead](https://github.com/Abhinay0508/Abhinay0508/blob/main/Blue%20Bold%20Designer%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Abhinay Sahare</h1>
 <h3 align="center">A E&TC Sophomore trying to get into CSE Stuff!!</h3>
