@@ -5,9 +5,9 @@
 
 - 👨‍💻 I’m currently learning **Java,Flutter & other technical stuffs**
 
-- 📫 How to reach me **abhinaysahare05@gmail.com** 
+- 📫 How to reach me **abhinaysahare05@gmail.com**                            
 
-- ⚡ Fun fact **I think I am a bit funny..Not too much but a bit!** <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+- ⚡ Fun fact **I think I am a bit funny..Not too much but a bit!** 
 
 
 <h3 align="left">Connect with me:</h3>
