@@ -1,9 +1,9 @@
 ![MasterHead](https://github.com/Abhinay0508/Abhinay0508/blob/main/Blue%20Bold%20Designer%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Abhinay Sahare</h1>
-<h3 align="center">A E&TC Sophomore trying to get into CSE Stuff!!</h3>
+<h3 align="center">A E&TC Student having keen interest to get into CSE Stuff!!</h3>
 
-- 👨‍💻 I’m currently learning **Java,Flutter & other technical stuffs**
+- 👨‍💻 I’m currently learning **Frontend, Flutter & other technical stuffs**
 
 - 📫 How to reach me **abhinaysahare05@gmail.com**                            
 
